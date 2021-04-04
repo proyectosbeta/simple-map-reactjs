@@ -4,6 +4,7 @@ An example of a map using Leaflet in ReactJS.
 Tecnologies:
 - ReactJS 17.0.2
 - Leaflet
+- GeoJSON with data file (department.json).
 
 ## Available Scripts
 
