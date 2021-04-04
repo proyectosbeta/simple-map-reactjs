@@ -1,13 +1,14 @@
 # simple-map-reactjs
 An example of a map using Leaflet in ReactJS.
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](screenshots/SimpleMapExample.png)
 
 Tecnologies:
 - ReactJS 17.0.2
 - Leaflet
+- OSM data.
 - GeoJSON with data file (department.json).
 
 ## Available Scripts
