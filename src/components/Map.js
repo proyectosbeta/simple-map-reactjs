@@ -13,8 +13,8 @@ const style = {
 };
 
 const onEachFeature = (feature, layer) => {
-  let popupContent = `Departamento nombre: ${feature.properties.departamento_nombre} 
-    <br> Departamento capital: ${feature.properties.departamento_capital}`;
+  let popupContent = `Name of department: ${feature.properties.departamento_nombre} 
+    <br> Capital: ${feature.properties.departamento_capital}`;
   if (feature.properties && feature.properties.popupContent) {
     popupContent += feature.properties.popupContent;
   }
