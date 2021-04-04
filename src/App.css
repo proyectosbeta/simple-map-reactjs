@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(178, 210, 222);
+}
+
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(178, 210, 222);
+}
