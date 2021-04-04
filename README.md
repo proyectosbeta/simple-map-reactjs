@@ -1,6 +1,10 @@
 # simple-map-reactjs
 An example of a map using Leaflet in ReactJS.
 
+## Screenshots
+
+![Screenshot](screenshots/paraguayan_info.png)
+
 Tecnologies:
 - ReactJS 17.0.2
 - Leaflet
